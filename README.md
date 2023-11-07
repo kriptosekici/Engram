@@ -36,7 +36,7 @@ sudo nano docker-compose.yml
 # aşağıdaki kısımları dosyamızın içinde bulup değiştirelim.
 identity=kriptosekici
 enr-address=65.108.149.54
-graffiti=kriptosekici
+graffiti=0xarn
 # bu 3 kısmı değiştirin kendinize göre daha sonra CTRL X Y ENTER ile kaydedip çıkalım.
 
 # docker'i yükleyelim

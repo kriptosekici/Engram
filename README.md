@@ -34,9 +34,9 @@ mkdir -p execution consensus validator
 sudo nano docker-compose.yml
 
 # aşağıdaki kısımları dosyamızın içinde bulup değiştirelim.
-identity=Ruesandora
-enr-address=IpAdresimiz
-graffiti=discordİsmi
+identity=kriptosekici
+enr-address=65.108.149.54
+graffiti=kriptosekici
 # bu 3 kısmı değiştirin kendinize göre daha sonra CTRL X Y ENTER ile kaydedip çıkalım.
 
 # docker'i yükleyelim
